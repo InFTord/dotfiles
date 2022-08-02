@@ -1,2 +1,2 @@
 # dotfiles
-Collection of my debian dotfiles
+Collection of my Arch (maybe) dotfiles
